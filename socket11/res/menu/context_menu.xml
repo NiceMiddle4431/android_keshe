@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item1" android:title="弹出热键菜单"></item>
+    <item android:id="@+id/item2" android:title="鼠标控制"></item>
+    <item android:id="@+id/item3" android:title="发送组合命令"></item>
+    <item android:id="@+id/item4" android:title="增加组合命令"></item>
+    
+
+</menu>
